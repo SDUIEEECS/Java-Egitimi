@@ -6,6 +6,8 @@ Eğitim oldukça hafta-hafta buraya eklenecektir.
 
 Eğitmen :  <a href="https://www.github.com/celalbaydar" target="_blank">Celal BAYDAR </a>
 
+Kursta eğitmenin referans aldığı ve ödev verdiği kitap : <a href="http://www.amazon.com/Intro-Programming-Comprehensive-Version-Edition/dp/0133761312">Introduction to Java-Programming 10th-Edition Daniel Liang  </a>
+
 #Checklist
 Eğitime başlamadan önce bilgi ölçmeyi hedefleyen aynı zamanda kursta öğretilecekleri bildiren checklist. </br>
 
